@@ -1,6 +1,6 @@
 # 3D-Shapes-Formulas-for-Olympiads
 
-A concise reference sheet of volume and surface area formulas for common 3D solids, designed for AMC/AIME-level geometry and math contests.
+This is a concise reference sheet of volume and surface area formulas for common 3D solids for AMC/AIME-level geometry and math contests.
 
 ## Contents
 - Cube, rectangular prism, general prism
@@ -10,7 +10,7 @@ A concise reference sheet of volume and surface area formulas for common 3D soli
 - Hemisphere and spherical cap
 
 ## Purpose
-This document is intended as a quick-access resource during practice and contest preparation.
+This document is a quick-access resource for practice and contest preparation.
 
 ## Notes
 - V denotes volume and S denotes surface area  
@@ -21,5 +21,5 @@ This document is intended as a quick-access resource during practice and contest
 
 ## Future Improvements
 - Add diagrams for each solid  
-- Include derivations and common applications  
-- Expand to more advanced contest geometry topics
+- Add derivations and common applications  
+- Add more advanced contest geometry topics
